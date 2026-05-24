@@ -17,26 +17,6 @@ A console-based Java application developed to manage student records efficiently
 
 ---
 
-## Screenshots
-
-### Main Menu
-
-![Main Menu](screenshots/menu.png)
-
-### Add Student
-
-![Add Student](screenshots/addstudent.png)
-
-### View Students
-
-![View Students](screenshots/viewstudent.png)
-
-### Search Student
-
-![Search Student](screenshots/searchstudent.png)
-
----
-
 ## Concepts Used
 
 - Object-Oriented Programming (OOP)
@@ -57,21 +37,6 @@ A console-based Java application developed to manage student records efficiently
 - Eclipse IDE
 - Git
 - GitHub
-
----
-
-## Project Structure
-
-StudentManagementSystem
-
-src/
-├── Model/
-├── Service/
-├── util/
-├── main/
-
-students.txt
-README.md
 
 ---
 
